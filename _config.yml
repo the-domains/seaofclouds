@@ -1,8 +1,17 @@
-layout_spectrum: 0.9930339
-typography_spectrum: 0.9959638
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.1961311
-  lightness: 0.6183819
   brandStrength: 0.3338659
   rhythmicContrast: 0.8720515
   brandColors:
@@ -11,4 +20,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+  lightness: 0.6183819
+typography_spectrum: 0.2419355
+layout_spectrum: 0
 name: seaofclouds
