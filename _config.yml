@@ -1,0 +1,14 @@
+layout_spectrum: 0.9930339
+typography_spectrum: 0.9959638
+color:
+  saturation: 0.1961311
+  lightness: 0.6183819
+  brandStrength: 0.3338659
+  rhythmicContrast: 0.8720515
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: seaofclouds
